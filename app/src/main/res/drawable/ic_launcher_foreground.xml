@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Main PDF Document Sheet inside 66dp safe zone -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M35,28 L59,28 L72,41 L72,77 C72,79.2 70.2,81 68,81 L35,81 C32.8,81 31,79.2 31,77 L31,32 C31,29.8 32.8,28 35,28 Z" />
+    <!-- Folded corner -->
+    <path
+        android:fillColor="#93C5FD"
+        android:pathData="M59,28 L59,38 C59,39.7 60.3,41 62,41 L72,41 Z" />
+    <!-- Document lines -->
+    <path
+        android:fillColor="#1D4ED8"
+        android:pathData="M38,48 L56,48 C57.1,48 58,48.9 58,50 C58,51.1 57.1,52 56,52 L38,52 C36.9,52 36,51.1 36,50 C36,48.9 36.9,48 38,48 Z" />
+    <path
+        android:fillColor="#3B82F6"
+        android:pathData="M38,57 L64,57 C65.1,57 66,57.9 66,59 C66,60.1 65.1,61 64,61 L38,61 C36.9,61 36,60.1 36,59 C36,57.9 36.9,57 38,57 Z" />
+    <path
+        android:fillColor="#93C5FD"
+        android:pathData="M38,66 L54,66 C55.1,66 56,66.9 56,68 C56,69.1 55.1,70 54,70 L38,70 C36.9,70 36,69.1 36,68 C36,66.9 36.9,66 38,66 Z" />
+    <!-- Edit Badge Circle -->
+    <path
+        android:fillColor="#0EA5E9"
+        android:pathData="M68,61 A11,11 0 1,1 67.99,61 Z" />
+    <!-- Pen icon inside badge -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M63,74 L63,77 L66,77 L74.2,68.8 L71.2,65.8 Z M76.4,66.6 C76.7,66.3 76.7,65.8 76.4,65.5 L74.5,63.6 C74.2,63.3 73.7,63.3 73.4,63.6 L72,65 L75,68 Z" />
+</vector>

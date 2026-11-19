@@ -1,0 +1,6 @@
+{
+  "name": "GS PDF Editor",
+  "description": "GS Online Solution PDF Editor - Privacy-first PDF editing, merging, splitting, compression, resizing, image conversion, and OCR workspace.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
